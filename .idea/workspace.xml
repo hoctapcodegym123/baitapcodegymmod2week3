@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f3eaa9-0bde-4bc6-915d-b45876241532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2Week3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaiQLKS/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaiQLKS/ManageHotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaiQLKS/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAStackQueue11/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAStackQueue11/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAStackQueue11/MyGenericStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/DSAStackQueue11" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,7 +44,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,7 +54,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DSAStackQueue11.MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSAStackQueue11.MyQueue" />
       <module name="Module2Week3" />
       <extension name="coverage">
@@ -75,7 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyQueue" />
+        <item itemvalue="Application.DSAStackQueue11.MyQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653288025615</updated>
       <workItem from="1653288027251" duration="7611000" />
-      <workItem from="1653441375222" duration="670000" />
+      <workItem from="1653441375222" duration="2033000" />
     </task>
     <servers />
   </component>
